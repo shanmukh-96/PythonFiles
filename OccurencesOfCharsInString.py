@@ -1,3 +1,14 @@
+# Occurences of continues Chars in a String
+
+
+# Input:
+# aaaaabbbbjjjjssss
+
+# Output:
+# 5a4b4j4s
+
+
+
 str1 = input("Enter a String: ")
 
 char = str1[0]
