@@ -1,10 +1,10 @@
-Max occurence of a character in a string
+# Max occurence of a character in a string
 
-Input:
-hello world
+# Input:
+# hello world
 
-Output:
-l
+# Output:
+# l
 
 str = input("Enter a String: ")
 
