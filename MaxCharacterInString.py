@@ -1,3 +1,11 @@
+Max occurence of a character in a string
+
+Input:
+hello world
+
+Output:
+l
+
 str = input("Enter a String: ")
 
 count = {}
