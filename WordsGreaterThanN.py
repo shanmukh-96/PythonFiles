@@ -1,9 +1,9 @@
-Input:
-man can tan one man two kan can
-2
+# Input:
+# man can tan one man two kan can
+# 2
 
-Output:
-['man', 'can']
+# Output:
+# ['man', 'can']
 
 
 
