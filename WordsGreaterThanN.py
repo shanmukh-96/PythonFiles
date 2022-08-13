@@ -1,3 +1,13 @@
+Input:
+man can tan one man two kan can
+2
+
+Output:
+['man', 'can']
+
+
+
+
 str = input("Enter a String: ")
 n = int(input("Enter a number: "))
 
